@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wearewild",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "wild's ESLint config 2020",
   "homepage": "https://github.com/madebywild/config-eslint",
   "author": "WILD <weare@wild.as> (https://wild.as)",
