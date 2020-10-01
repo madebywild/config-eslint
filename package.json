@@ -1,7 +1,7 @@
 {
-  "name": "@madebywild/config-eslint",
-  "version": "0.0.2",
-  "description": "wild's ESLint config",
+  "name": "@madebywild/eslint-config-wild-2020",
+  "version": "0.0.1",
+  "description": "wild's ESLint config 2020",
   "homepage": "https://github.com/madebywild/config-eslint",
   "author": "WILD <weare@wild.as> (https://wild.as)",
   "license": "MIT",
